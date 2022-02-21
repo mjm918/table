@@ -22,15 +22,7 @@
 ![Demo of table displaying a list of missions to the Moon.](./.README/demo.png)
 
 <a name="table-features"></a>
-## Features
 
-* Works with strings containing [fullwidth](https://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms) characters.
-* Works with strings containing [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code).
-* Configurable border characters.
-* Configurable content alignment per column.
-* Configurable content padding per column.
-* Configurable column width.
-* Text wrapping.
 
 <a name="table-install"></a>
 ## Install
